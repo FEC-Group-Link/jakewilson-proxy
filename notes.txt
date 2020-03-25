@@ -1,0 +1,7 @@
+3/24
+
+created and setup index.html and server.js in jakewilson-proxy
+git cloned other teammates repos (3) into fec folder
+npm run build on each repo
+
+ran db seed scripts on the 3 repos (didn't need to do mine again)
