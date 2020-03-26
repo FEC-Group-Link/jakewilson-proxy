@@ -5,3 +5,9 @@ git cloned other teammates repos (3) into fec folder
 npm run build on each repo
 
 ran db seed scripts on the 3 repos (didn't need to do mine again)
+
+3/25
+added everyone's css into the proxy's css
+fixed conflicting css class names
+floated similar apps service to the right
+floated other three services to the left
